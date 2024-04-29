@@ -34,7 +34,7 @@ Figma
 
 
 ## OUTPUT:
-![Uploading Screenshot 2024-04-29 131715.png…]()
+![Screenshot 2024-04-29 131715](https://github.com/Kavi45-msk/Figma/assets/147457752/9ecce58c-5e3a-4372-b9b1-edbdada61d64)
 
 
 ## RESULT:
